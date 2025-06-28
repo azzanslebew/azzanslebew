@@ -32,8 +32,8 @@
 
 ## 🧰 Tech Stack & Skills
 
-💻 Web:       HTML • CSS • JavaScript • React • TypeScript • Laravel • PHP • MySQL
-📱 Mobile:    Flutter • Dart
-🧠 Backend:   REST API • MVC Architecture
-🛠️ Tools:    Git • GitHub • VS Code • Android Studio
-🔤 Language:  C# • C++
+- 💻 Web:       HTML • CSS • JavaScript • React • TypeScript • Laravel • PHP • MySQL
+- 📱 Mobile:    Flutter • Dart
+- 🧠 Backend:   REST API • MVC Architecture
+- 🛠️ Tools:    Git • GitHub • VS Code • Android Studio
+- 🔤 Language:  C# • C++
