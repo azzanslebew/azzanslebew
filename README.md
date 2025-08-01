@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3E82F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3E82F7&center=true&vCenter=true&width=500&lines=Full-    Stack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻" />
 </p>
 
 <h1 align="center">Hi, I'm Azzan Isham Alawiy 👋</h1>
@@ -47,7 +47,7 @@ Currently exploring:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azzanslebew&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=azzanslebew&theme=radical&date_format=M%20j%5B%2C%20Y%5D"  width="51%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=azzanslebew&theme=radical" width="48%" />
 </p>
 
 ![Snake animation](https://github.com/azzanslebew/azzanslebew/blob/output/github-contribution-grid-snake.svg)
