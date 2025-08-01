@@ -1,39 +1,61 @@
-<!-- Header Animation (Lottie) -->
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3E82F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there, I'm Azzan Isham Alawiy 👋</h1>
+<h1 align="center">Hi, I'm Azzan Isham Alawiy 👋</h1>
 
 <p align="center">
-  🌟 SMK Student | 💻 Web & Mobile Developer | 🎯 Tech Explorer
+  SMK Student • Full-Stack Web Developer • Mobile Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azzanslebew&label=Profile%20views&color=blueviolet&style=flat" alt="azzanslebew" />
-  <img src="https://img.shields.io/github/followers/azzanslebew?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Code-C%23%2C%20C%2B%2B%2C%20PHP%2C%20Dart-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tools-VSCode%2C%20Android%20Studio%2C%20Git-orange?style=flat-square" />
+  <a href="https://github.com/azzanslebew">
+    <img src="https://komarev.com/ghpvc/?username=azzanslebew&label=Profile%20views&color=blueviolet&style=flat" alt="azzanslebew" />
+  </a>
+  <a href="https://github.com/azzanslebew?tab=followers">
+    <img src="https://img.shields.io/github/followers/azzanslebew?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  </a>
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## 🧑‍💻 About Me
 
-🎓 I'm a 12th-grade student at **SMK Raden Umar Said Kudus**, majoring in **Software Engineering**.  
-💡 I love building cool things using modern tools in both **Web** and **Mobile Development**.
+🎓 Final-year student at **SMK Raden Umar Said Kudus**, majoring in **Software Engineering**  
+🔭 Passionate about building real-world web & mobile applications  
+💡 Focused on modern tech, clean code, and user-friendly design
 
-🧠 Constantly learning and exploring:
-- Frontend & Backend Development
-- Mobile App with Flutter
-- Clean UI/UX Design
+Currently exploring:
+
+- ⚛️ React & TypeScript
+- 📱 Flutter for cross-platform apps
+- 🧪 Backend API with Laravel
 
 ---
 
-## 🧰 Tech Stack & Skills
+## 🧰 Tech Stack
 
-- 💻 Web:       HTML • CSS • JavaScript • React • TypeScript • Laravel • PHP • MySQL
-- 📱 Mobile:    Flutter • Dart
-- 🧠 Backend:   REST API • MVC Architecture
-- 🛠️ Tools:    Git • GitHub • VS Code • Android Studio
-- 🔤 Language:  C# • C++
+| Web Development   | Mobile Development | Backend & Database  | Tools                                |
+| ----------------- | ------------------ | ------------------- | ------------------------------------ |
+| HTML, CSS, JS     | Flutter, Dart      | Laravel, PHP, MySQL | Git, GitHub, VS Code, Android Studio |
+| React, TypeScript |                    | REST API, MVC       | Figma (UI Design)                    |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzanslebew&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=azzanslebew&theme=radical&date_format=M%20j%5B%2C%20Y%5D"  width="51%" />
+</p>
+
+![Snake animation](https://github.com/azzanslebew/azzanslebew/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [azzanishamkds@gmail.com](mailto:azzanishamkds@gmail.com)
+- 💼 LinkedIn: [@azzanisham](https://linkedin.com/in/azzan-isham-480614258)
+- 🖥️ Portfolio: [click here!](https://azzanslebew.github.io/my-portfolio/)
