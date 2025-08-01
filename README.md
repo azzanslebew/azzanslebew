@@ -50,7 +50,7 @@ Currently exploring:
   <img src="https://github-readme-streak-stats.demolab.com/?user=azzanslebew&theme=radical" width="48%" />
 </p>
 
-![Snake animation](https://github.com/azzanslebew/azzanslebew/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/azzanslebew/azzanslebew/output/github-contribution-grid-snake.svg)
 
 ---
 
