@@ -1,6 +1,6 @@
-<!-- Header Animation -->
+<!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3E82F7&center=true&vCenter=true&width=500&lines=Full-    Stack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3E82F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻" alt="Typing Animation" />
 </p>
 
 <h1 align="center">Hi, I'm Azzan Isham Alawiy 👋</h1>
@@ -46,12 +46,16 @@ Currently exploring:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzanslebew&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=azzanslebew&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azzanslebew&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=azzanslebew&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
+---
+
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://azzanslebew.github.io/azzanslebew/github-contribution-grid-snake.svg" alt="snake animation" />
+  <object type="image/svg+xml" data="https://azzanslebew.github.io/azzanslebew/github-contribution-grid-snake.svg" width="100%"></object>
 </p>
 
 ---
