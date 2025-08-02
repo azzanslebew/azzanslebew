@@ -47,7 +47,7 @@ Currently exploring:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azzanslebew&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=azzanslebew&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=azzanslebew&theme=radical" width="51%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -55,7 +55,10 @@ Currently exploring:
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <object type="image/svg+xml" data="https://azzanslebew.github.io/azzanslebew/github-contribution-grid-snake.svg" width="100%"></object>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://azzanslebew.github.io/azzanslebew/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Snake" src="https://azzanslebew.github.io/azzanslebew/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
