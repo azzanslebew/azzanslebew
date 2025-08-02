@@ -50,6 +50,10 @@ Currently exploring:
   <img src="https://streak-stats.demolab.com?user=azzanslebew&theme=radical" width="51%" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+    <img height="169em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KaisarAffan&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats" alt="KaisarAffan"/>
+</p>
+
 ---
 
 ## 🐍 GitHub Contribution Snake
