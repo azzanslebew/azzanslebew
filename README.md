@@ -56,6 +56,14 @@ Currently exploring:
 
 ---
 
+## 📊 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/azzanslebew/azzanslebew/main/github-metrics.svg" />
+</p>
+
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
