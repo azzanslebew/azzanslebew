@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=FullStack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;I'm+Kaisar+Affan+Danendra;A+Passionate+Android+Dev+From+Indonesia&font=Fira%20Code&color=%23D62F79&center=true&width=500&height=30">
 </p>
 
 <h1 align="center">Hi, I'm Azzan Isham Alawiy 👋</h1>
