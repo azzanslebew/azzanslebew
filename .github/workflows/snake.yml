@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # jalan tiap hari
+    - cron: "0 0 * * *"  # Jalan setiap hari pukul 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: azzanslebew
-          outputs: dist
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
