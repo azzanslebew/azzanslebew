@@ -74,6 +74,81 @@
 ## ⏱ Weekly WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-244-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 44.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 292 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1489 commits        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌆 Daytime                1336 commits        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+🌃 Evening                1645 commits        █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Tuesday                  978 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Wednesday                644 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Thursday                 566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Friday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Saturday                 622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Sunday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Java** 
+
+```text
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/azzanslebew/azzanslebew/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/08/2025 15:35:30 UTC
 <!--END_SECTION:waka-->
 
 ---
