@@ -1,0 +1,22 @@
+name: 🕒 WakaTime Readme
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # setiap hari jam 12.00 WIB (05.00 UTC)
+  workflow_dispatch:
+
+jobs:
+  update-wakatime:
+    name: Update WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@v0.1.4
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TOTAL: true
+          SHOW_TITLE: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
