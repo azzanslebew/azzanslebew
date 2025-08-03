@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Mobile+App+Enthusiast;Always+learning+something+new!;Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻&font=Fira%20Code&color=%B13BFF&center=true&width=500&height=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=💻+Full-Stack+Web+Developer;📱+Mobile+App+Enthusiast;🚀+Always+learning+something+new!;👑+Coding+with+Passion+%26+Purpose;I+turn+coffee+☕+into+clean+code+💻&font=Fira%20Code&color=%B13BFF&center=true&width=500&height=30">
 </p>
 
 <h1 align="center">Hi, I'm Azzan Isham Alawiy 👋</h1>
