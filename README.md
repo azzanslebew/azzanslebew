@@ -62,7 +62,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azzanslebew&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=azzanslebew&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=azzanslebew&theme=radical" width="51%" />
 </p>
 
 <p align="center">
@@ -82,17 +82,17 @@
 
 ---
 
-## 📺 YouTube Channel (Latest Video)
+## 📺 YouTube Channel
 
 <p align="center">
   <a href="https://www.youtube.com/@thunderfighter25" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCXXXXX?style=social" alt="YouTube Channel" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCNalweapOFwBm7O_m7en_TA?style=social" alt="YouTube Channel" />
   </a>
 </p>
 
 ---
 
-## 📝 Habit Tracker (via WakaTime)
+## 📝 Habit Tracker
 
 <!-- Replace `azzanslebew` with your WakaTime username if available -->
 <p align="center">
