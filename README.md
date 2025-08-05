@@ -69,6 +69,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzanslebew&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azzanslebew&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
 ---
 
 ## ⏱ Weekly WakaTime Stats
