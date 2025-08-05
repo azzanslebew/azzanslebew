@@ -86,9 +86,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 44.7 kB Used in GitHub's Storage 
+> 📦 44.4 kB Used in GitHub's Storage 
  > 
-> 🏆 294 Contributions in the Year 2025
+> 🏆 297 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,6 +96,45 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1494 commits        ████████░░░░░░░░░░░░░░░░░   33.32 % 
+🌆 Daytime                1341 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+🌃 Evening                1645 commits        █████████░░░░░░░░░░░░░░░░   36.69 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Tuesday                  980 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Wednesday                644 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Thursday                 567 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Friday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Saturday                 623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Sunday                   493 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -113,7 +152,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/azzanslebew/azzanslebew/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 05:36:39 UTC
+ Last Updated on 05/08/2025 05:28:58 UTC
 <!--END_SECTION:waka-->
 
 ---
