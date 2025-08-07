@@ -75,88 +75,6 @@
 
 ---
 
-## ⏱ Weekly WakaTime Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-327-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 48.8 kB Used in GitHub's Storage 
- > 
-> 🏆 303 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1396 commits        ████████░░░░░░░░░░░░░░░░░   32.79 % 
-🌆 Daytime                1273 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                1584 commits        █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   550 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Tuesday                  928 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Wednesday                626 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Thursday                 536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Saturday                 585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Sunday                   466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Java** 
-
-```text
-HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/azzanslebew/azzanslebew/main/assets/bar_graph.png)
-
-
- Last Updated on 07/08/2025 05:27:59 UTC
-<!--END_SECTION:waka-->
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
@@ -174,15 +92,6 @@ PHP                      1 repo              █░░░░░░░░░░�
   <a href="https://www.youtube.com/@thunderfighter25" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCNalweapOFwBm7O_m7en_TA?style=social" alt="YouTube Channel" />
   </a>
-</p>
-
----
-
-## 📝 Habit Tracker
-
-<!-- Replace `azzanslebew` with your WakaTime username if available -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azzanslebew&theme=tokyonight" />
 </p>
 
 ---
